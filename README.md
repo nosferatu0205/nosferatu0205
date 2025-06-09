@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Momen Fahmid</h1>
-<h3 align="center">An undergraduate software Engineer from Bangladesh</h3>
+<h3 align="center">A Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nosferatu0205&label=Profile%20views&color=0e75b6&style=flat" alt="nosferatu0205" /> </p>
 

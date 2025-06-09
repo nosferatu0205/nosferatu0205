@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nosferatu0205&label=Profile%20views&color=0e75b6&style=flat" alt="nosferatu0205" /> </p>
 
-- 🔭 I’m currently working on **at Ding**
+- 🔭 I’m currently working **at Ding as a Junior Backend Integrations Engineer**
 
 - 🌱 I’m currently learning **.NET core, JavaScript and Python!**
 

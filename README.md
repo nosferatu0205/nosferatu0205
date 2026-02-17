@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Ezetop Unlimited Company t/a Ding<br>👯 I’m looking to collaborate on ML/webdev/appdev<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning .NET<br>💬 Ask me about my final year project<br>⚡ Fun fact: vibe coding is underrated :p
+zzzzzzzzzz
 
 
 ## 🌐 Socials:
